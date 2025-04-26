@@ -1,5 +1,7 @@
 # DrugHub Market Link
 
+A collection of darknet marketplace links (including DrugHub Market) for research and information. Disclaimer: Not affiliated with any marketplaces. Access at your own risk. Informational purposes only.
+
 **Disclaimer:** *This repository provides information and links to darknet marketplaces for informational and research purposes only. We are not affiliated with, endorsed by, or responsible for any activities that occur on these marketplaces. Accessing or using these marketplaces may be illegal in your jurisdiction. We strongly advise you to comply with all applicable laws. We do not condone, promote, or encourage any illegal activities.*
 
 ## Description
