@@ -1,4 +1,4 @@
-# DrugHubMarket-Link
+# DrugHub Market Link
 
 **Disclaimer:** *This repository provides information and links to darknet marketplaces for informational and research purposes only. We are not affiliated with, endorsed by, or responsible for any activities that occur on these marketplaces. Accessing or using these marketplaces may be illegal in your jurisdiction. We strongly advise you to comply with all applicable laws. We do not condone, promote, or encourage any illegal activities.*
 
